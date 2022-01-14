@@ -1,0 +1,8 @@
+{
+  "name": "test-graphql",
+  "version": "1.0.0",
+  "description": "A project for testing graphql with nodejs",
+  "main": "index.js",
+  "author": "Clement Gyimah",
+  "license": "MIT"
+}
