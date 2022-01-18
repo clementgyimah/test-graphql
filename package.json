@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
     "start": "nodemon index.js",
-    "git-cz": "git-cz"
+    "cz": "git-cz"
   },
   "dependencies": {
     "apollo-server-express": "^3.6.1",
